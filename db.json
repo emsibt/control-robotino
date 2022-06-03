@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "https://signin.fsoft.com.vn/auth/resources/4.5.0.final/login/XOne/img/logo_fpt.png?v=1.1"
+    },
+    {
+      "id": 2,
+      "image": "./public/red.png"
+    },
+    {
+      "id": 3,
+      "image": "green.png"
+    },
+    {
+      "id": 4,
+      "image": "blue.png"
+    }
+  ]
+}
