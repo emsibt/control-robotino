@@ -1,0 +1,36 @@
+.control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.control-left{
+    display: flex;
+    flex-direction: column;
+    padding-right: 50px;
+}
+.control-left .bottom{
+    flex-direction: row;
+}
+.control-left .top{
+    justify-content: center;
+    align-items: center;
+}
+.forward {
+  filter: grayscale(1);
+}
+.back {
+  filter: grayscale(1);
+}
+.left {
+  filter: grayscale(1);
+}
+.right {
+  filter: grayscale(1);
+}
+.rotate-left {
+  filter: grayscale(1);
+}
+.rotate-right {
+  filter: grayscale(1);
+}
