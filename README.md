@@ -18,5 +18,5 @@ Copy and paste `chrome.exe --user-data-dir="C://Chrome dev session" --disable-we
 
 ### step 5
 
-Mở trang web tại trình duyệt vừa mới mở, link trang web xem sau khi run startstart`
+Mở trang web tại trình duyệt vừa mới mở, link trang web xem sau khi run `npm start`
 
