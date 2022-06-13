@@ -5,7 +5,7 @@ Download node
 #### Step 2
 
 `npm install`
-Nếu thiếu package thì google nha
+Note: Nếu thiếu package thì google nha
 
 ### Step 3
 
@@ -13,7 +13,7 @@ Nếu thiếu package thì google nha
 
 ### Step 4
 
-Window + R
+Window + R ->
 Copy and paste `chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security`
 
 ### step 5
