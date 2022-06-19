@@ -1,6 +1,6 @@
 ### Step 1
 
-Download node
+Download nodeJS
 
 #### Step 2
 
